@@ -6,3 +6,5 @@ Your goal is to move to your capture zone (same coloured square on the opposite 
 You can defend by tagging your opponent which will send you both back to spawn.
 The goal is to have the most points for your team (displayed in the console.)
 This prototype may eventually have classes with different buffs, items, running + stamina, more players.
+
+To run, download the chosen version and .venv directory, put them in a directory, navigate into th directory and run the python file.
